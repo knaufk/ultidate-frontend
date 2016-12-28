@@ -12,3 +12,5 @@ addons:
 script:
   - npm run lint
   - npm run test
+notifications:
+  slack: nanojobs:oZ2HEjvNrkjGBghjBRHhb5Hh
